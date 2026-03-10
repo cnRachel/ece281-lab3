@@ -6,3 +6,5 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 
 Built for Vivado 2024.2 on Windows 11.
 
+## Test Bench Waveform
+![Waveform from thunderbird_fsm_tb](ECE281Lab3Waveform.jpg)
